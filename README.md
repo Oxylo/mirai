@@ -2,6 +2,7 @@
   [![workflow](https://github.com/Oxylo/mirai/actions/workflows/workflow.yaml/badge.svg)](https://github.com/Oxylo/mirai/actions/workflows/workflow.yaml)
   <!-- badges: end -->
 
+Small update ;)
 
 # myfinalpkg documentation
   
